@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+harbor.yml
+certs/
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+common/config/
+secret/
+*.secret
